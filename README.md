@@ -1,5 +1,6 @@
 # webpage-projects
-Some webpage projects to test my skills
+Some webpage projects to test my HTML/CSS (Boostrap framework used) skills.
+
 
 Web Developer portfolio concept page: https://codepen.io/visevan/full/rzprZb
 
